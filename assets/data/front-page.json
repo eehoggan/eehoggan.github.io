@@ -1,0 +1,20 @@
+
+{
+  "header": "Eve Hoggan",
+  "intro_text": "As a Human-Computer Interaction researcher, my focus is on creating novel interaction techniques and non-visual multimodal feedback. Some of my most recent research has focused on haptic interpersonal communication, user interface optimisation and smart material shape-changing interfaces.",
+  "explanation": "Use the icons to control the modalities you want to experience while navigating this website.",
+  "scrolldown_text": "scroll down to see recent projects",
+  "selected_work": [
+    {
+      "title": "DynaKnob",
+      "description": "A dynamic rotary knob that has the ability to alter its physical shape and haptic feel to inform the user about its functionality and action possibilities in a tangible manner.",
+      "video": "/assets/videos/DIS2020-presentation.mp4"
+    },
+    {
+      "title": "An Exploration of Mobile Shape-Changing Textures",
+      "description": "The development and evaluation of Undulating Covers (UnCovers), mobile interfaces that can change their surface texture to transmit information.",
+      "video": "/assets/videos/teifp0172-file3.mp4"
+    }
+  ]
+}
+

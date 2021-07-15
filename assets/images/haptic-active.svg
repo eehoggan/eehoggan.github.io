@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-859 441 200 200" style="enable-background:new -859 441 200 200;" xml:space="preserve">
+<style type="text/css">
+	.gray{fill:#CBCCCE;}
+	.purple{fill:#832990;}
+</style>
+<g>
+	<path id="hand" class="gray buttonEl" d="M-759.7,600.1c3.6,0,6.5-2.9,6.5-6.5v-38c0-2.9,1.1-5.6,3.2-7.7l14-13.8c2.1-2.1,4.2-3.2,6.3-3.2
+		l0,0c2.1,0,4.2,1,6.3,3.2l3.4,3.3l19.2-19.1l-26.8-26.7c-4.8-4.8-11.1-7.4-17.8-7.4l0,0c-6.7,0-13.1,2.6-17.8,7.4l-43.8,44.1
+		c-4.9,4.9-7.6,11.4-7.6,18.3v39.3c0,3.3,2.4,6.2,5.5,6.7c1.9,0.3,3.8-0.2,5.3-1.5c1.5-1.2,2.3-3,2.3-4.9v-35.5
+		c0-0.8,0.7-1.5,1.5-1.5s1.6,0.7,1.6,1.5v35.5c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5v-35.5c0-0.8,0.7-1.5,1.5-1.5
+		c0.8,0,1.6,0.7,1.6,1.5v35.5c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5v-35.5c0-0.8,0.7-1.5,1.5-1.5s1.6,0.7,1.6,1.5v35.5
+		C-766.3,597.2-763.3,600.1-759.7,600.1z"/>
+	<path id="nail_3_" class="purple buttonEl" d="M-803,600.9h-10v-8c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V600.9z"/>
+	<path id="nail_2_" class="purple buttonEl" d="M-787,600.9h-10v-8c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V600.9z"/>
+	<path id="nail_1_" class="purple buttonEl" d="M-770.8,600.9h-10v-8c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V600.9z"/>
+	<path id="nail" class="purple buttonEl" d="M-754.7,600.9h-10v-8c0-2.8,2.2-5,5-5l0,0c2.8,0,5,2.2,5,5V600.9z"/>
+</g>
+</svg>

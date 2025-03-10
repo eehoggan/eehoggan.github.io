@@ -1,0 +1,932 @@
+[
+  {
+    "id": 16,
+    "title": "Crossmodal interaction: Using audio or tactile displays in mobile devices",
+    "author": [
+      "Eve Hoggan"
+    ],
+    "booktitle": "IFIP Conference on Human-Computer Interaction",
+    "pages": "577--579",
+    "year": 2007,
+    "organization": "Springer Berlin Heidelberg Berlin, Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 17,
+    "title": "Crossmodal combinations: using piezo-electric, vibrotactile and audio feedback",
+    "author": [
+      "Eve Hoggan",
+      "Stephen Brewster",
+      "Topi Kaaresoja"
+    ],
+    "booktitle": "3rd International Haptic and Auditory Interaction Design Workshop",
+    "pages": "33",
+    "year": 2008,
+    "type": "inproceedings"
+  },
+  {
+    "id": 18,
+    "title": "Squeeze vs. tilt: a comparative study using continuous tactile feedback",
+    "author": [
+      "Eve Hoggan",
+      "Dari Trendafilov",
+      "Teemu Ahmaniemi",
+      "Roope Raisamo"
+    ],
+    "booktitle": "CHI'11 Extended Abstracts on Human Factors in Computing Systems",
+    "pages": "1309--1314",
+    "year": 2011,
+    "type": "incollection"
+  },
+  {
+    "id": 19,
+    "title": "Crossmodal Interaction with Mobile Devices",
+    "author": [
+      "Eve E Hoggan",
+      "Stephen A Brewster"
+    ],
+    "booktitle": "Visual Languages and Human-Centric Computing (VL/HCC'06)",
+    "pages": "234--235",
+    "year": 2006,
+    "organization": "IEEE",
+    "type": "inproceedings"
+  },
+  {
+    "id": 20,
+    "title": "Crossmodal audio and tactile interaction with mobile touchscreens",
+    "author": [
+      "Eve Hoggan"
+    ],
+    "booktitle": "Social and Organizational Impacts of Emerging Mobile Devices: Evaluating Use",
+    "pages": "249--264",
+    "year": 2012,
+    "publisher": "IGI Global Scientific Publishing",
+    "type": "incollection"
+  },
+  {
+    "id": 21,
+    "title": "Electrostatic modulated friction as tactile feedback: Intensity perception",
+    "author": [
+      "Dinesh Wijekoon",
+      "Marta E Cecchinato",
+      "Eve Hoggan",
+      "Jukka Linjama"
+    ],
+    "booktitle": "Haptics: Perception, Devices, Mobility, and Communication: International Conference, EuroHaptics 2012, Tampere, Finland, June 13-15, 2012. Proceedings, Part I",
+    "pages": "613--624",
+    "year": 2012,
+    "organization": "Springer Berlin Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 22,
+    "title": "Tailoring feedback to users\u2019 actions in a persuasive game for household electricity conservation",
+    "author": [
+      "Luciano Gamberini",
+      "Anna Spagnolli",
+      "Nicola Corradi",
+      "Giulio Jacucci",
+      "Giovanni Tusa",
+      "Topi Mikkola",
+      "Luca Zamboni",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Persuasive Technology. Design for Health and Safety: 7th International Conference, PERSUASIVE 2012, Link\u00f6ping, Sweden, June 6-8, 2012. Proceedings 7",
+    "pages": "100--111",
+    "year": 2012,
+    "organization": "Springer Berlin Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 23,
+    "title": "An exploration of inadvertent variations in mobile pressure input",
+    "author": [
+      "Craig Stewart",
+      "Eve Hoggan",
+      "Laura Haverinen",
+      "Hugues Salamin",
+      "Giulio Jacucci"
+    ],
+    "booktitle": "Proceedings of the 14th international conference on Human-computer interaction with mobile devices and services",
+    "pages": "35--38",
+    "year": 2012,
+    "type": "inproceedings"
+  },
+  {
+    "id": 24,
+    "title": "Pressages: augmenting phone calls with non-verbal messages",
+    "author": [
+      "Eve Hoggan",
+      "Craig Stewart",
+      "Laura Haverinen",
+      "Giulio Jacucci",
+      "Vuokko Lantz"
+    ],
+    "booktitle": "Proceedings of the 25th annual ACM symposium on User interface software and technology",
+    "pages": "555--562",
+    "year": 2012,
+    "type": "inproceedings"
+  },
+  {
+    "id": 25,
+    "title": "Nonspeech auditory and crossmodal output",
+    "author": [
+      "Eve Hoggan",
+      "Stephen Brewster"
+    ],
+    "journal": "The Human-Computer Interaction Handbook: Fundamentals, Evolving Technologies and Emerging Applications",
+    "pages": "211--236",
+    "year": 2012,
+    "type": "article"
+  },
+  {
+    "id": 26,
+    "title": "Multi-touch rotation gestures: Performance and ergonomics",
+    "author": [
+      "Eve Hoggan",
+      "John Williamson",
+      "Antti Oulasvirta",
+      "Miguel Nacenta",
+      "Per Ola Kristensson",
+      "Anu Lehti\u00f6"
+    ],
+    "booktitle": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+    "pages": "3047--3050",
+    "year": 2013,
+    "type": "inproceedings"
+  },
+  {
+    "id": 27,
+    "title": "Information-seeking behaviors of computer scientists: Challenges for electronic literature search tools",
+    "author": [
+      "Kumaripaba Athukorala",
+      "Eve Hoggan",
+      "Anu Lehti\u00f6",
+      "Tuukka Ruotsalo",
+      "Giulio Jacucci"
+    ],
+    "journal": "Proceedings of the American Society for Information Science and Technology",
+    "volume": 50,
+    "number": 1,
+    "pages": "1--11",
+    "year": 2013,
+    "publisher": "Wiley Subscription Services, Inc., A Wiley Company Hoboken",
+    "type": "article"
+  },
+  {
+    "id": 28,
+    "title": "Multi-touch pinch gestures: Performance and ergonomics",
+    "author": [
+      "Eve Hoggan",
+      "Miguel Nacenta",
+      "Per Ola Kristensson",
+      "John Williamson",
+      "Antti Oulasvirta",
+      "Anu Lehti\u00f6"
+    ],
+    "booktitle": "Proceedings of the 2013 ACM international conference on Interactive tabletops and surfaces",
+    "pages": "219--222",
+    "year": 2013,
+    "type": "inproceedings"
+  },
+  {
+    "id": 29,
+    "title": "Haptic interfaces",
+    "author": [
+      "Eve Hoggan"
+    ],
+    "journal": "Price, S., & Jewitt, C., & B. Brown (Eds.), The SAGE Handbook of Digital Technology Research",
+    "pages": "342--358",
+    "year": 2013,
+    "type": "article"
+  },
+  {
+    "id": 24,
+    "title": "The meaning of the virtual M idas touch: An ERP study in economic decision making",
+    "author": [
+      "Michiel M Spap\u00e9",
+      "Eve E Hoggan",
+      "Giulio Jacucci",
+      "Niklas Ravaja"
+    ],
+    "journal": "Psychophysiology",
+    "volume": 52,
+    "number": 3,
+    "pages": "378--387",
+    "year": 2015,
+    "type": "article"
+  },
+  {
+    "id": 25,
+    "title": "Mid-air haptics and displays: systems for un-instrumented mid-air interactions",
+    "author": [
+      "Sriram Subramanian",
+      "Sue Ann Seah",
+      "Hiroyuki Shinoda",
+      "Eve Hoggan",
+      "Loic Corenthy"
+    ],
+    "booktitle": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+    "pages": "3446--3452",
+    "year": 2016,
+    "type": "inproceedings"
+  },
+  {
+    "id": 26,
+    "title": "Reach out and touch me: Effects of four distinct haptic technologies on affective touch in virtual reality",
+    "author": [
+      "Imtiaj Ahmed",
+      "Ville Harjunen",
+      "Giulio Jacucci",
+      "Eve Hoggan",
+      "Niklas Ravaja",
+      "Michiel M Spap\u00e9"
+    ],
+    "booktitle": "Proceedings of the 18th ACM International Conference on Multimodal Interaction",
+    "pages": "341--348",
+    "year": 2016,
+    "type": "inproceedings"
+  },
+  {
+    "id": 27,
+    "title": "An Exploration of Mobile Shape-Changing Textures",
+    "author": [
+      "Eve Hoggan",
+      "Yi-Ta Hsieh",
+      "Kalle Myllymaa",
+      "Vuokko Lantz",
+      "Johan Kildal",
+      "Julian Eiler",
+      "Giulio Jacucci"
+    ],
+    "booktitle": "Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction",
+    "pages": "275--282",
+    "year": 2017,
+    "type": "inproceedings"
+  },
+  {
+    "id": 28,
+    "title": "Situating wearables: Smartwatch use in context",
+    "author": [
+      "Donald McMillan",
+      "Barry Brown",
+      "Airi Lampinen",
+      "Moira McGregor",
+      "Eve Hoggan",
+      "Stefania Pizza"
+    ],
+    "booktitle": "Proceedings of the 2017 chi conference on human factors in computing systems",
+    "pages": "3582--3594",
+    "year": 2017,
+    "type": "inproceedings"
+  },
+  {
+    "id": 29,
+    "title": "Boxer: a multimodal collision technique for virtual objects",
+    "author": [
+      "Byungjoo Lee",
+      "Qiao Deng",
+      "Eve Hoggan",
+      "Antti Oulasvirta"
+    ],
+    "booktitle": "Proceedings of the 19th ACM International Conference on Multimodal Interaction",
+    "pages": "252--260",
+    "year": 2017,
+    "type": "inproceedings"
+  },
+  {
+    "id": 30,
+    "title": "Physical versus digital sticky notes in collaborative ideation",
+    "author": [
+      "Mads M\u00f8ller Jensen",
+      "Sarah-Kristin Thiel",
+      "Eve Hoggan",
+      "Susanne B\u00f8dker"
+    ],
+    "journal": "Computer Supported Cooperative Work (CSCW)",
+    "volume": 27,
+    "pages": "609--645",
+    "year": 2018,
+    "publisher": "Springer Netherlands",
+    "type": "article"
+  },
+  {
+    "id": 31,
+    "title": "Knobology 2.0: Giving shape to the haptic force feedback of interactive knobs",
+    "author": [
+      "Anke van Oosterhout",
+      "Majken Kirkeg\u00e5rd Rasmussen",
+      "Eve Hoggan",
+      "Miguel Bruns"
+    ],
+    "booktitle": "Adjunct Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+    "pages": "197--199",
+    "year": 2018,
+    "type": "inproceedings"
+  },
+  {
+    "id": 32,
+    "title": "Developing hand-worn input and haptic support for real-world target finding",
+    "author": [
+      "Yi-Ta Hsieh",
+      "Antti Jylh\u00e4",
+      "Valeria Orso",
+      "Salvatore Andolina",
+      "Eve Hoggan",
+      "Luciano Gamberini",
+      "Giulio Jacucci"
+    ],
+    "journal": "Personal and Ubiquitous Computing",
+    "volume": 23,
+    "pages": "117--132",
+    "year": 2019,
+    "publisher": "Springer London",
+    "type": "article"
+  },
+  {
+    "id": 33,
+    "title": "Beyond generalization: research for the very particular",
+    "author": [
+      "Olav W Bertelsen",
+      "Susanne B\u00f8dker",
+      "Eva Eriksson",
+      "Eve Hoggan",
+      "Jo Vermeulen"
+    ],
+    "journal": "Interactions",
+    "volume": 26,
+    "number": 1,
+    "pages": "34--38",
+    "year": 2018,
+    "publisher": "ACM New York, NY, USA",
+    "type": "article"
+  },
+  {
+    "id": 34,
+    "title": "DynaKnob: combining haptic force feedback and shape change",
+    "author": [
+      "Anke Van Oosterhout",
+      "Eve Hoggan",
+      "Majken Kirkegaard Rasmussen",
+      "Miguel Bruns"
+    ],
+    "booktitle": "Proceedings of the 2019 on Designing Interactive Systems Conference",
+    "pages": "963--974",
+    "year": 2019,
+    "type": "inproceedings"
+  },
+  {
+    "id": 35,
+    "title": "Digitizing sticky notes",
+    "author": [
+      "Susanne B\u00f8dker",
+      "Eve Hoggan",
+      "Mads M\u00f8ller Jensen",
+      "Clemens Nylandsted Klokmose",
+      "Roman R\u00e4dle",
+      "Sarah-Kristin Thiel"
+    ],
+    "booktitle": "Sticky Creativity: Post-it Note Cognition, Computers, and Design",
+    "pages": "103--122",
+    "year": 2019,
+    "publisher": "Elsevier",
+    "type": "incollection"
+  },
+  {
+    "id": 36,
+    "title": "Somehow they are never horny!",
+    "author": [
+      "Gopinaath Kannabiran",
+      "Eve Hoggan",
+      "Lone Koefoed Hansen"
+    ],
+    "booktitle": "Companion Publication of the 2020 ACM Designing Interactive Systems Conference",
+    "pages": "131--137",
+    "year": 2020,
+    "type": "inproceedings"
+  },
+  {
+    "id": 37,
+    "title": "Reshaping interaction with rotary knobs: Combining form, feel and function",
+    "author": [
+      "Anke van Oosterhout",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+    "pages": "1973--1982",
+    "year": 2020,
+    "type": "inproceedings"
+  },
+  {
+    "id": 38,
+    "title": "Facilitating flexible force feedback design with feelix",
+    "author": [
+      "Anke Van Oosterhout",
+      "Miguel Bruns",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Proceedings of the 2020 international conference on multimodal interaction",
+    "pages": "184--193",
+    "year": 2020,
+    "type": "inproceedings"
+  },
+  {
+    "id": 39,
+    "title": "Deformation Techniques for Shape Changing Interfaces",
+    "author": [
+      "Anke Van Oosterhout",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+    "pages": "1--7",
+    "year": 2021,
+    "type": "inproceedings"
+  },
+  {
+    "id": 40,
+    "title": "MoLux: Negotiating Control with a Shape-Changing Lamp at Home",
+    "author": [
+      "Marie-Louise Stisen Kjerstein S\u00f8rensen",
+      "Andreas Becker Bertelsen",
+      "Ninna Nordmark Hoffmann",
+      "Marianne Graves Petersen",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Nordic Human-Computer Interaction Conference",
+    "pages": "1--13",
+    "year": 2022,
+    "type": "inproceedings"
+  },
+  {
+    "id": 41,
+    "title": "Designing Feedback for Haptic and Shape Changing Interfaces with Feelix: A tutorial on the design of force feedback and shape change in custom user interfaces",
+    "author": [
+      "Anke Van Oosterhout",
+      "Miguel Bruns",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference",
+    "pages": "1--3",
+    "year": 2022,
+    "type": "inproceedings"
+  },
+  {
+    "id": 42,
+    "title": "Adjustable graphical notation and accessible hardware to accommodate the force feedback design process: redesign of feelix based on preliminary evaluations of design tools and methods",
+    "author": [
+      "Anke Van Oosterhout",
+      "Eve Hoggan",
+      "Miguel Bruns"
+    ],
+    "booktitle": "Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference",
+    "pages": "1--5",
+    "year": 2022,
+    "type": "inproceedings"
+  },
+  {
+    "id": 43,
+    "title": "Work of the Future",
+    "author": [
+      "Melanie Duckert",
+      "Eve Hoggan",
+      "Louise Barkhuus",
+      "Pernille Bj\u00f8rn",
+      "Nina Boulus-Rodje",
+      "Susanne B\u00f8dker",
+      "Naja Holten M\u00f8ller",
+      "Irina Shklovski"
+    ],
+    "booktitle": "Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference",
+    "pages": "1--4",
+    "year": 2022,
+    "type": "inproceedings"
+  },
+  {
+    "id": 44,
+    "title": "Designing for Haptic and Embodied Interaction with Feelix",
+    "author": [
+      "Anke Van Oosterhout",
+      "Miguel Bruns",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",
+    "pages": "1--4",
+    "year": 2023,
+    "type": "inproceedings"
+  },
+  {
+    "id": 45,
+    "title": "Mirrorverse: Live tailoring of video conferencing interfaces",
+    "author": [
+      "Jens Emil Sloth Gr\u00f8nb\u00e6k",
+      "Marcel Borowski",
+      "Eve Hoggan",
+      "Wendy E Mackay",
+      "Michel Beaudouin-Lafon",
+      "Clemens Nylandsted Klokmose"
+    ],
+    "booktitle": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+    "pages": "1--14",
+    "year": 2023,
+    "type": "inproceedings"
+  },
+  {
+    "id": 46,
+    "title": "CIO Work Package 3 Summary: Technical Requirements",
+    "author": [
+      "Susanne B\u00f8dker",
+      "Marcel Borowski",
+      "Philip Tchernavskij",
+      "Eve Hoggan",
+      "Henrik Korsgaard"
+    ],
+    "year": 2023,
+    "type": "article"
+  },
+  {
+    "id": 47,
+    "title": "Achieving symmetry in synchronous interaction in hybrid work is impossible",
+    "author": [
+      "Pernille Bj\u00f8rn",
+      "Juliane Busboom",
+      "Melanie Duckert",
+      "Susanne B\u00f8dker",
+      "Irina Shklovski",
+      "Eve Hoggan",
+      "Kellie Dunn",
+      "Qianqian Mu",
+      "Louise Barkhuus",
+      "Nina Boulus-R\u00f8dje"
+    ],
+    "journal": "ACM Transactions on Computer-Human Interaction",
+    "volume": 31,
+    "number": 4,
+    "pages": "1--34",
+    "year": 2024,
+    "publisher": "ACM New York, NY",
+    "type": "article"
+  },
+  {
+    "id": 48,
+    "title": "Whispering through walls: towards inclusive backchannel communication in hybrid meetings",
+    "author": [
+      "Qianqian Mu",
+      "Marcel Borowski",
+      "Jens Emil Sloth Gr\u00f8nb\u00e6k",
+      "Susanne B\u00f8dker",
+      "Eve Hoggan"
+    ],
+    "booktitle": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems",
+    "pages": "1--16",
+    "year": 2024,
+    "type": "inproceedings"
+  },
+  {
+    "id": 49,
+    "title": "Material mediation in collaborative activity",
+    "author": [
+      "Susanne B\u00f8dker",
+      "Eve Hoggan",
+      "Ida Larsen-Ledet"
+    ],
+    "journal": "Proceedings of the ACM on Human-Computer Interaction",
+    "volume": 8,
+    "number": "CSCW1",
+    "pages": "1--24",
+    "year": 2024,
+    "publisher": "ACM New York, NY, USA",
+    "type": "article"
+  },
+  {
+    "id": 50,
+    "title": "Highways and Tunnels: Force Feedback Guidance for Visualisations",
+    "author": [
+      "Sarah Fjelsted Alr\u00f8e",
+      "Eve Hoggan",
+      "Hans-J\u00f6rg Schulz"
+    ],
+    "booktitle": "Short Paper Proceedings of the 26th Eurographics Conference on Visualization",
+    "year": 2024,
+    "organization": "The Eurographics Association",
+    "type": "inproceedings"
+  },
+  {
+    "id": 51,
+    "title": "Multimodal Interaction",
+    "author": [
+      "Eve Hoggan"
+    ],
+    "booktitle": "Interaction Techniques and Technologies in Human-Computer Interaction",
+    "pages": "45--63",
+    "year": 2024,
+    "publisher": "CRC Press",
+    "type": "incollection"
+  },
+  {
+    "id": 52,
+    "title": "Demonstrating MouthIO: Customizable Oral User Interfaces with Integrated Sensing and Actuation",
+    "author": [
+      "Yijing Jiang",
+      "Julia Kleinau",
+      "Till Max Eckroth",
+      "Eve Hoggan",
+      "Stefanie Mueller",
+      "Michael Wessely"
+    ],
+    "booktitle": "Adjunct Proceedings of the 9th ACM Symposium on Computational Fabrication",
+    "pages": "1--3",
+    "year": 2024,
+    "type": "inproceedings"
+  },
+  {
+    "id": 53,
+    "title": "MouthIO: Fabricating Customizable Oral User Interfaces with Integrated Sensing and Actuation",
+    "author": [
+      "Yijing Jiang",
+      "Julia Kleinau",
+      "Till Max Eckroth",
+      "Eve Hoggan",
+      "Stefanie Mueller",
+      "Michael Wessely"
+    ],
+    "booktitle": "Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology",
+    "pages": "1--16",
+    "year": 2024,
+    "type": "inproceedings"
+  },
+  {
+    "id": 54,
+    "title": "Investigating the effectiveness of tactile feedback for mobile touchscreens",
+    "author": [
+      "Eve Hoggan",
+      "Stephen A Brewster",
+      "Jody Johnston"
+    ],
+    "booktitle": "Proceedings of the SIGCHI conference on Human factors in computing systems",
+    "pages": "1573--1582",
+    "year": 2008,
+    "type": "inproceedings"
+  },
+  {
+    "id": 55,
+    "title": "Designing audio and tactile crossmodal icons for mobile devices",
+    "author": [
+      "Eve Hoggan",
+      "Stephen Brewster"
+    ],
+    "booktitle": "Proceedings of the 9th international conference on Multimodal interfaces",
+    "pages": "162--169",
+    "year": 2007,
+    "type": "inproceedings"
+  },
+  {
+    "id": 56,
+    "title": "How important is the \u201cmental map\u201d?--an empirical investigation of a dynamic graph layout algorithm",
+    "author": [
+      "Helen C Purchase",
+      "Eve Hoggan",
+      "Carsten G\u00f6rg"
+    ],
+    "booktitle": "Graph Drawing: 14th International Symposium, GD 2006, Karlsruhe, Germany, September 18-20, 2006. Revised Papers 14",
+    "pages": "184--195",
+    "year": 2007,
+    "organization": "Springer Berlin Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 57,
+    "title": "Mobile multi-actuator tactile displays",
+    "author": [
+      "Eve Hoggan",
+      "Sohail Anwar",
+      "Stephen A Brewster"
+    ],
+    "booktitle": "Haptic and Audio Interaction Design: Second International Workshop, HAID 2007 Seoul, South Korea, November 29-30, 2007 Proceedings 2",
+    "pages": "22--33",
+    "year": 2007,
+    "organization": "Springer Berlin Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 58,
+    "title": "Audio or tactile feedback: which modality when?",
+    "author": [
+      "Eve Hoggan",
+      "Andrew Crossan",
+      "Stephen A Brewster",
+      "Topi Kaaresoja"
+    ],
+    "booktitle": "Proceedings of the SIGCHI conference on human factors in computing systems",
+    "pages": "2253--2256",
+    "year": 2009,
+    "type": "inproceedings"
+  },
+  {
+    "id": 59,
+    "title": "Crossmodal icons for information display",
+    "author": [
+      "Eve E Hoggan",
+      "Stephen A Brewster"
+    ],
+    "booktitle": "CHI'06 extended abstracts on Human factors in computing systems",
+    "pages": "857--862",
+    "year": 2006,
+    "type": "inproceedings"
+  },
+  {
+    "id": 60,
+    "title": "New parameters for tacton design",
+    "author": [
+      "Eve Hoggan",
+      "Stephen Brewster"
+    ],
+    "booktitle": "CHI'07 Extended Abstracts on Human Factors in Computing Systems",
+    "pages": "2417--2422",
+    "year": 2007,
+    "type": "inproceedings"
+  },
+  {
+    "id": 61,
+    "title": "T-Bars: towards tactile user interfaces for mobile touchscreens",
+    "author": [
+      "Malcolm Hall",
+      "Eve Hoggan",
+      "Stephen Brewster"
+    ],
+    "booktitle": "Proceedings of the 10th international conference on Human computer interaction with mobile devices and services",
+    "pages": "411--414",
+    "year": 2008,
+    "type": "inproceedings"
+  },
+  {
+    "id": 62,
+    "title": "Crossmodal congruence: the look, feel and sound of touchscreen widgets",
+    "author": [
+      "Eve Hoggan",
+      "Topi Kaaresoja",
+      "Pauli Laitinen",
+      "Stephen Brewster"
+    ],
+    "booktitle": "Proceedings of the 10th international conference on Multimodal interfaces",
+    "pages": "157--164",
+    "year": 2008,
+    "type": "inproceedings"
+  },
+  {
+    "id": 63,
+    "title": "Crosstrainer: testing the use of multimodal interfaces in situ",
+    "author": [
+      "Eve Hoggan",
+      "Stephen A Brewster"
+    ],
+    "booktitle": "Proceedings of the SIGCHI conference on human factors in computing systems",
+    "pages": "333--342",
+    "year": 2010,
+    "type": "inproceedings"
+  },
+  {
+    "id": 64,
+    "title": "Tactile displays",
+    "author": [
+      "Stephen A Brewster",
+      "S Wall",
+      "Lorna M Brown",
+      "E Hoggan"
+    ],
+    "journal": "The Engineering Handbook on Smart Technology for Aging, Disability and Independence",
+    "pages": "339--352",
+    "year": 2008,
+    "publisher": "John Wiley and Sons Inc.",
+    "type": "article"
+  },
+  {
+    "id": 65,
+    "title": "Crossmodal spatial location: initial experiments",
+    "author": [
+      "Eve Hoggan",
+      "Stephen Brewster"
+    ],
+    "booktitle": "Proceedings of the 4th Nordic conference on Human-computer interaction: changing roles",
+    "pages": "469--472",
+    "year": 2006,
+    "type": "inproceedings"
+  },
+  {
+    "id": 66,
+    "title": "Mapping information to audio and tactile icons",
+    "author": [
+      "Eve Hoggan",
+      "Roope Raisamo",
+      "Stephen A Brewster"
+    ],
+    "booktitle": "Proceedings of the 2009 international conference on Multimodal interfaces",
+    "pages": "327--334",
+    "year": 2009,
+    "type": "inproceedings"
+  },
+  {
+    "id": 67,
+    "title": "The effect of tactile feedback latency in touchscreen interaction",
+    "author": [
+      "Topi Kaaresoja",
+      "Emilia Anttila",
+      "Eve Hoggan"
+    ],
+    "booktitle": "2011 IEEE world haptics conference",
+    "pages": "65--70",
+    "year": 2011,
+    "organization": "IEEE",
+    "type": "inproceedings"
+  },
+  {
+    "id": 68,
+    "title": "A study of mobile mood awareness and communication through MobiMood",
+    "author": [
+      "Karen Church",
+      "Eve Hoggan",
+      "Nuria Oliver"
+    ],
+    "booktitle": "Proceedings of the 6th Nordic conference on human-computer interaction: extending boundaries",
+    "pages": "128--137",
+    "year": 2010,
+    "type": "inproceedings"
+  },
+  {
+    "id": 69,
+    "title": "Playing with tactile feedback latency in touchscreen interaction: Two approaches",
+    "author": [
+      "Topi Kaaresoja",
+      "Eve Hoggan",
+      "Emilia Anttila"
+    ],
+    "booktitle": "IFIP Conference on Human-Computer Interaction",
+    "pages": "554--571",
+    "year": 2011,
+    "organization": "Springer Berlin Heidelberg Berlin, Heidelberg",
+    "type": "inproceedings"
+  },
+  {
+    "id": 70,
+    "title": "Some severe deficiencies of the input-output HCI-paradigm and their influence on practical design",
+    "author": [
+      "Kai Tuuri",
+      "Antti Pirhonen",
+      "Eve Hoggan"
+    ],
+    "journal": "Designing beyond the Product-Understanding Activity and User Experience in Ubiquitous Environments",
+    "pages": "363--369",
+    "year": 2009,
+    "type": "article"
+  },
+  {
+    "id": 71,
+    "title": "From space to stage: How interactive screens will change urban life",
+    "author": [
+      "Kai Kuikkaniemi",
+      "Giulio Jacucci",
+      "Marko Turpeinen",
+      "Eve Hoggan",
+      "J\u00f6rg M\u00fcller"
+    ],
+    "journal": "Computer",
+    "volume": 44,
+    "number": 6,
+    "pages": "40--47",
+    "year": 2011,
+    "publisher": "IEEE",
+    "type": "article"
+  },
+  {
+    "id": 72,
+    "title": "Eco-feedback on the go: Motivating energy awareness",
+    "author": [
+      "Anna Spagnolli",
+      "Nicola Corradi",
+      "Luciano Gamberini",
+      "Eve Hoggan",
+      "Giulio Jacucci",
+      "Cecilia Katzeff",
+      "Loove Broms",
+      "Li Jonsson"
+    ],
+    "journal": "Computer",
+    "volume": 44,
+    "number": 5,
+    "pages": "38--45",
+    "year": 2011,
+    "publisher": "IEEE",
+    "type": "article"
+  },
+  {
+    "id": 73,
+    "title": "Designing social mobile interfaces: experiences with MobiMood, a mobile mood sharing application",
+    "author": [
+      "Karen Church",
+      "Eve Hoggan",
+      "Nuria Oliver"
+    ],
+    "booktitle": "Workshop on Visual Interfaces to the Social and Semantic Web",
+    "year": 2010,
+    "type": "inproceedings"
+  }
+]

@@ -1,0 +1,20 @@
+
+{
+  "header": "Eve Hoggan",
+  "intro_text": "As a Human-Computer Interaction researcher, my focus is on creating novel interaction techniques and non-visual multimodal feedback. Some of my most recent research has focused on multi-sensory collaboration systems, input devices and haptic interaction.",
+  "explanation": "Use the icons to control the modalities you want to experience while navigating this website.",
+  "scrolldown_text": "scroll down to see recent projects",
+  "selected_work": [
+    {
+      "title": "ReWork",
+      "description": "In REWORK, we focus on enriching digital technologies for hybrid work. We will investigate ways to strengthen relation work and articulation work through explorations of embodiment and presence. To imagine futures and technologies that can be otherwise, we look to artistic interventions, getting at the core of engagement and reflection on the future of remote and hybrid work by imagining and making alternatives through aesthetic speculations and prototyping of novel multimodal interactions (using the audio, haptic, visual, and even olfactory modalities). We will explore the limits of embodiment in remote settings by uncovering the challenges and limitations of existing technical solutions, following a similar approach as some of our previous research.",
+      "video": "/assets/videos/CHI2025_Video.m4v"
+    },
+    {
+      "title": "DynaKnob",
+      "description": "A dynamic rotary knob that has the ability to alter its physical shape and haptic feel to inform the user about its functionality and action possibilities in a tangible manner.",
+      "video": "/assets/videos/DIS2020-presentation.mp4"
+    }
+
+  ]
+}

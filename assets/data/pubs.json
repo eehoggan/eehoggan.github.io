@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "Investigating the effectiveness of tactile feedback for mobile touchscreens",
+        "authors": ["Hoggan, Eve", "Brewster, Stephen A", "Johnston, Jody"],
+        "booktitle": "Proceedings of the SIGCHI conference on Human factors in computing systems",
+        "pages": "1573-1582",
+        "year": 2008
+    },
+    {
+        "id": 2,
+        "title": "Designing audio and tactile crossmodal icons for mobile devices",
+        "authors": ["Hoggan, Eve", "Brewster, Stephen"],
+        "booktitle": "Proceedings of the 9th international conference on Multimodal interfaces",
+        "pages": "162-169",
+        "year": 2007
+    },
+    {
+        "id": 3,
+        "title": "How important is the \"mental map\"?--an empirical investigation of a dynamic graph layout algorithm",
+        "authors": ["Purchase, Helen C", "Hoggan, Eve", "Görg, Carsten"],
+        "booktitle": "Graph Drawing: 14th International Symposium, GD 2006, Karlsruhe, Germany, September 18-20, 2006. Revised Papers 14",
+        "pages": "184-195",
+        "year": 2007,
+        "organization": "Springer Berlin Heidelberg"
+    },
+    {
+        "id": 4,
+        "title": "Mobile multi-actuator tactile displays",
+        "authors": ["Hoggan, Eve", "Anwar, Sohail", "Brewster, Stephen A"],
+        "booktitle": "Haptic and Audio Interaction Design: Second International Workshop, HAID 2007 Seoul, South Korea, November 29-30, 2007 Proceedings 2",
+        "pages": "22-33",
+        "year": 2007,
+        "organization": "Springer Berlin Heidelberg"
+    },
+    {
+        "id": 5,
+        "title": "Audio or tactile feedback: which modality when?",
+        "authors": ["Hoggan, Eve", "Crossan, Andrew", "Brewster, Stephen A", "Kaaresoja, Topi"],
+        "booktitle": "Proceedings of the SIGCHI conference on human factors in computing systems",
+        "pages": "2253-2256",
+        "year": 2009
+    },
+    {
+        "id": 6,
+        "title": "Crossmodal icons for information display",
+        "authors": ["Hoggan, Eve E", "Brewster, Stephen A"],
+        "booktitle": "CHI'06 extended abstracts on Human factors in computing systems",
+        "pages": "857-862",
+        "year": 2006
+    },
+    {
+        "id": 7,
+        "title": "New parameters for tacton design",
+        "authors": ["Hoggan, Eve", "Brewster, Stephen"],
+        "booktitle": "CHI'07 Extended Abstracts on Human Factors in Computing Systems",
+        "pages": "2417-2422",
+        "year": 2007
+    },
+    {
+        "id": 8,
+        "title": "T-Bars: towards tactile user interfaces for mobile touchscreens",
+        "authors": ["Hall, Malcolm", "Hoggan, Eve", "Brewster, Stephen"],
+        "booktitle": "Proceedings of the 10th international conference on Human computer interaction with mobile devices and services",
+        "pages": "411-414",
+        "year": 2008
+    },
+    {
+        "id": 9,
+        "title": "Crossmodal congruence: the look, feel and sound of touchscreen widgets",
+        "authors": ["Hoggan, Eve", "Kaaresoja, Topi", "Laitinen, Pauli", "Brewster, Stephen"],
+        "booktitle": "Proceedings of the 10th international conference on Multimodal interfaces",
+        "pages": "157-164",
+        "year": 2008
+    },
+    {
+        "id": 10,
+        "title": "Crosstrainer: testing the use of multimodal interfaces in situ",
+        "authors": ["Hoggan, Eve", "Brewster, Stephen A"],
+        "booktitle": "Proceedings of the SIGCHI conference on human factors in computing systems",
+        "pages": "333-342",
+        "year": 2010
+    },
+    {
+        "id": 11,
+        "title": "Tactile displays",
+        "authors": ["Brewster, Stephen A", "Wall, S", "Brown, Lorna M", "Hoggan, E"],
+        "journal": "The Engineering Handbook on Smart Technology for Aging, Disability and Independence",
+        "pages": "339-352",
+        "year": 2008,
+        "publisher": "John Wiley and Sons Inc."
+    },
+    {
+        "id": 12,
+        "title": "Crossmodal spatial location: initial experiments",
+        "authors": ["Hoggan, Eve", "Brewster, Stephen"],
+        "booktitle": "Proceedings of the 4th Nordic conference on Human-computer interaction: changing roles",
+        "pages": "469-472",
+        "year": 2006
+    },
+    {
+        "id": 13,
+        "title": "Mapping information to audio and tactile icons",
+        "authors": ["Hoggan, Eve", "Raisamo, Roope", "Brewster, Stephen A"],
+        "booktitle": "Proceedings of the 2009 international conference on Multimodal interfaces",
+        "pages": "327-334",
+        "year": 2009
+    },
+    {
+        "id": 14,
+        "title": "The effect of tactile feedback latency in touchscreen interaction",
+        "authors": ["Kaaresoja, Topi", "Anttila, Emilia", "Hoggan, Eve"],
+        "booktitle": "2011 IEEE world haptics conference",
+        "pages": "65-70",
+        "year": 2011,
+        "organization": "IEEE"
+    },
+    {
+        "id": 15,
+        "title": "A study of mobile mood awareness and communication through MobiMood",
+        "authors": ["Church, Karen", "Hoggan, Eve", "Oliver, Nuria"],
+        "booktitle": "Proceedings of the 6th Nordic conference on human-computer interaction: extending boundaries",
+        "pages": "128-137",
+        "year": 2010
+    }
+]

@@ -1,0 +1,31 @@
+  [
+    {
+      "title": "Investigating The Effectiveness Of Tactile Feedback For Mobile Touchscreens",
+      "image": "/effectiveness_of_tactile_feedback_for_mobile_touchscreens.JPG",
+      "data": {
+        "year": 2008
+      }
+    },
+    {
+      "title": "Audio or Tactile Feedback: Which Modality When?",
+      "image": "/experiment_train.JPG",
+      "data": {
+        "year": 2009
+      }
+    },
+    {
+      "title": "Crossmodal Audio and Tactile Interaction with Mobile Touchscreens",
+      "pdf": {
+        "host": "local",
+        "link": "/assets/documents/2010hoganphd.pdf"
+      },
+      "type": "thesis",
+      "data": {
+        "authors": ["Eve Hoggan"],
+        "publication_date": "Feb",
+        "year": 2010,
+        "book": "PhD Thesis, University of Glasgow"
+      }
+    }
+
+  ]
